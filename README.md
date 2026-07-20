@@ -68,17 +68,12 @@ This project helped reinforce:
 - Flexbox alignment
 - CSS Grid layouts
 - Form creation and styling
-- Hover states and pseudo-classes
+- Hover states
 - Custom fonts
 - Responsive design fundamentals
 
-
-## Screenshot
-
-
-
 ## Author
 
-Shreasee S
+Shreasee 
 
 Built as part of my web development learning journey.
