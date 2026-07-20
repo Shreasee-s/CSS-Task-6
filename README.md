@@ -17,7 +17,7 @@ git clone <repository-url>
 
 ## Live Demo
 
-
+https://shreasee-s.github.io/CSS-Task-6/
 
 ## Preview
 
